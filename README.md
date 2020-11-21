@@ -1,15 +1,15 @@
 # IntroToAndroidSecurityVM
 A virtual machine with common Android Hacking tools that's broken into the following categories:
-Development
-Dynamic Analysis
-Manual Analysis
-Penetration Testing
-Programming
+Development,
+Dynamic Analysis,
+Manual Analysis,
+Penetration Testing,
+Programming,
 Reverse Engineering
 
 The virutal machine also has insecure Android apps installed.
 Apps:
-Android Insecure Mobile Bank v2
+Android Insecure Mobile Bank v2,
 OWASP MSTG (Mobile Secuirty Testing Guide) Playground
 
 Location of apps are here: /home/android/Documents
