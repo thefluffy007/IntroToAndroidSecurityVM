@@ -1,5 +1,5 @@
 # IntroToAndroidSecurityVM
-A virtual machine with common Android Hacking tools that's broken into the following categories:
+A virtual machine with common Android hacking tools broken into the following categories:
 Development,
 Dynamic Analysis,
 Manual Analysis,
